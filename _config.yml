@@ -143,7 +143,7 @@ font:
 #   Key is the name of the item and value is the name of FontAwesome icon. Key is case-senstive.
 #   When an globe mask icon presenting up means that the item has no mapping icon.
 social_icons:
-  enable: true
+  enable: false
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
@@ -289,7 +289,7 @@ mathjax:
 #baidu_analytics:
 
 # Duoshuo ShortName
-duoshuo_shortname: zhukite
+# duoshuo_shortname: 
 
 # Disqus
 disqus:
